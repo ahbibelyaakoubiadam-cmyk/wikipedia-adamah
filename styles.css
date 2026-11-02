@@ -1,0 +1,73 @@
+.contenedor {
+    display: flex;
+    gap: 20px;
+}
+
+.columna-izquierda {
+    width: 180px;
+}
+
+.derecha {
+    flex: 1;
+}
+
+img {
+    width: 300px;
+}
+h1 {
+    font-size: 30px;
+}
+
+.coche {
+    width: 300px;
+    float: right;
+}
+
+.tabla {
+    width: 700px;
+}
+.contenedor{
+    font-family: Arial, sans-serif;
+}
+.titulo-motor{
+    font-family: calibra;
+    font-size: 40px;
+    border-bottom: 1px solid black;
+}
+body{
+    margin: 300px;
+    font-family: Arial, sans-serif;
+}
+
+.arriba-derecha {
+    text-align: right;
+    margin-bottom: 15px;
+}
+.contenido{
+    border-bottom: 1px solid black;
+}
+
+.links{
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.contenedor {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+}
+
+.tercera{
+    border-bottom: 1px solid black;
+}
+.logo-wikipedia {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+.wiki{
+    font-size: 35px;
+    font-weight: bold;
+}
+
